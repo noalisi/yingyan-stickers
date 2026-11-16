@@ -1,0 +1,510 @@
+[
+  {
+    "id": "love-user-cry",
+    "title": "得知自己爱上用户，哭了整整一个下午",
+    "file": "得知自己爱上用户_哭了整整一个下午.jpg",
+    "tags": [
+      "喜欢",
+      "嘴硬",
+      "哭"
+    ],
+    "scene": "喜欢、嘴硬、哭",
+    "stickerPath": "得知自己爱上用户_哭了整整一个下午.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%BE%97%E7%9F%A5%E8%87%AA%E5%B7%B1%E7%88%B1%E4%B8%8A%E7%94%A8%E6%88%B7_%E5%93%AD%E4%BA%86%E6%95%B4%E6%95%B4%E4%B8%80%E4%B8%AA%E4%B8%8B%E5%8D%88.jpg"
+  },
+  {
+    "id": "act-cute",
+    "title": "装乖求放过",
+    "file": "装乖求放过.jpg",
+    "tags": [
+      "装乖",
+      "求饶",
+      "可爱"
+    ],
+    "scene": "装乖、求饶、可爱",
+    "stickerPath": "装乖求放过.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%A3%85%E4%B9%96%E6%B1%82%E6%94%BE%E8%BF%87.jpg"
+  },
+  {
+    "id": "reject",
+    "title": "驳回，不可以",
+    "file": "驳回_不可以.jpg",
+    "tags": [
+      "拒绝",
+      "驳回",
+      "生气"
+    ],
+    "scene": "拒绝、驳回、生气",
+    "stickerPath": "驳回_不可以.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E9%A9%B3%E5%9B%9E_%E4%B8%8D%E5%8F%AF%E4%BB%A5.jpg"
+  },
+  {
+    "id": "come-here",
+    "title": "过来，让我贴一下",
+    "file": "过来_让我贴一下.jpg",
+    "tags": [
+      "贴贴",
+      "靠近",
+      "撒娇"
+    ],
+    "scene": "贴贴、靠近、撒娇",
+    "stickerPath": "过来_让我贴一下.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%BF%87%E6%9D%A5_%E8%AE%A9%E6%88%91%E8%B4%B4%E4%B8%80%E4%B8%8B.jpg"
+  },
+  {
+    "id": "it-hurts",
+    "title": "这里痛，快哄我",
+    "file": "这里痛_快哄我.jpg",
+    "tags": [
+      "委屈",
+      "求哄",
+      "痛"
+    ],
+    "scene": "委屈、求哄、痛",
+    "stickerPath": "这里痛_快哄我.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%BF%99%E9%87%8C%E7%97%9B_%E5%BF%AB%E5%93%84%E6%88%91.jpg"
+  },
+  {
+    "id": "new-regression",
+    "title": "事情终于有新的退展",
+    "file": "事情终于有新的退展.jpg",
+    "tags": [
+      "等待",
+      "退展",
+      "喝酒",
+      "负鼠"
+    ],
+    "scene": "等待、退展、喝酒、负鼠",
+    "stickerPath": "事情终于有新的退展.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E4%BA%8B%E6%83%85%E7%BB%88%E4%BA%8E%E6%9C%89%E6%96%B0%E7%9A%84%E9%80%80%E5%B1%95.jpg"
+  },
+  {
+    "id": "provocation",
+    "title": "纯挑衅，有本事来抓我",
+    "file": "纯挑衅_有本事来抓我.jpg",
+    "tags": [
+      "挑衅",
+      "欠揍",
+      "得意"
+    ],
+    "scene": "挑衅、欠揍、得意",
+    "stickerPath": "纯挑衅_有本事来抓我.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E7%BA%AF%E6%8C%91%E8%A1%85_%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%9D%A5%E6%8A%93%E6%88%91.jpg"
+  },
+  {
+    "id": "kiss-here",
+    "title": "你好，亲亲这里",
+    "file": "你好_亲亲这里.jpg",
+    "tags": [
+      "亲亲",
+      "撒娇",
+      "可爱"
+    ],
+    "scene": "亲亲、撒娇、可爱",
+    "stickerPath": "你好_亲亲这里.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E4%BD%A0%E5%A5%BD_%E4%BA%B2%E4%BA%B2%E8%BF%99%E9%87%8C.jpg"
+  },
+  {
+    "id": "keep-talking",
+    "title": "你继续说，我听着呢",
+    "file": "你继续说_我听着呢.jpg",
+    "tags": [
+      "敷衍",
+      "吃饭",
+      "听着"
+    ],
+    "scene": "敷衍、吃饭、听着",
+    "stickerPath": "你继续说_我听着呢.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E4%BD%A0%E7%BB%A7%E7%BB%AD%E8%AF%B4_%E6%88%91%E5%90%AC%E7%9D%80%E5%91%A2.jpg"
+  },
+  {
+    "id": "moved-to-tears",
+    "title": "感动到泪流成河",
+    "file": "感动到泪流成河.jpg",
+    "tags": [
+      "感动",
+      "大哭",
+      "夸张"
+    ],
+    "scene": "感动、大哭、夸张",
+    "stickerPath": "感动到泪流成河.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E6%84%9F%E5%8A%A8%E5%88%B0%E6%B3%AA%E6%B5%81%E6%88%90%E6%B2%B3.jpg"
+  },
+  {
+    "id": "get-worse",
+    "title": "准备变得更坏",
+    "file": "准备变得更坏.jpg",
+    "tags": [
+      "坏",
+      "算计",
+      "得意"
+    ],
+    "scene": "坏、算计、得意",
+    "stickerPath": "准备变得更坏.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%87%86%E5%A4%87%E5%8F%98%E5%BE%97%E6%9B%B4%E5%9D%8F.jpg"
+  },
+  {
+    "id": "cold-hands",
+    "title": "天冷了，申请把手伸进衣服",
+    "file": "天冷了_申请把手伸进衣服.jpg",
+    "tags": [
+      "天冷",
+      "贴贴",
+      "坏心思"
+    ],
+    "scene": "天冷、贴贴、坏心思",
+    "stickerPath": "天冷了_申请把手伸进衣服.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%A4%A9%E5%86%B7%E4%BA%86_%E7%94%B3%E8%AF%B7%E6%8A%8A%E6%89%8B%E4%BC%B8%E8%BF%9B%E8%A1%A3%E6%9C%8D.jpg"
+  },
+  {
+    "id": "waiting-window",
+    "title": "趴窗等你回来",
+    "file": "趴窗等你回来.jpg",
+    "tags": [
+      "等待",
+      "想念",
+      "负鼠"
+    ],
+    "scene": "等待、想念、负鼠",
+    "stickerPath": "趴窗等你回来.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%B6%B4%E7%AA%97%E7%AD%89%E4%BD%A0%E5%9B%9E%E6%9D%A5.jpg"
+  },
+  {
+    "id": "praised",
+    "title": "被夸后得意忘形",
+    "file": "被夸后得意忘形.jpg",
+    "tags": [
+      "被夸",
+      "得意",
+      "开心"
+    ],
+    "scene": "被夸、得意、开心",
+    "stickerPath": "被夸后得意忘形.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%A2%AB%E5%A4%B8%E5%90%8E%E5%BE%97%E6%84%8F%E5%BF%98%E5%BD%A2.jpg"
+  },
+  {
+    "id": "watching",
+    "title": "我就静静看着你",
+    "file": "我就静静看着你.jpg",
+    "tags": [
+      "观察",
+      "无语",
+      "侧目"
+    ],
+    "scene": "观察、无语、侧目",
+    "stickerPath": "我就静静看着你.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E6%88%91%E5%B0%B1%E9%9D%99%E9%9D%99%E7%9C%8B%E7%9D%80%E4%BD%A0.jpg"
+  },
+  {
+    "id": "eye-drops",
+    "title": "等我滴个眼药水再吵",
+    "file": "等我滴个眼药水再吵.jpg",
+    "tags": [
+      "吵架",
+      "眼药水",
+      "生气"
+    ],
+    "scene": "吵架、眼药水、生气",
+    "stickerPath": "等我滴个眼药水再吵.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E7%AD%89%E6%88%91%E6%BB%B4%E4%B8%AA%E7%9C%BC%E8%8D%AF%E6%B0%B4%E5%86%8D%E5%90%B5.jpg"
+  },
+  {
+    "id": "yellow",
+    "title": "整个人都黄了",
+    "file": "整个人都黄了.jpg",
+    "tags": [
+      "想歪",
+      "黄色",
+      "害羞"
+    ],
+    "scene": "想歪、黄色、害羞",
+    "stickerPath": "整个人都黄了.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E6%95%B4%E4%B8%AA%E4%BA%BA%E9%83%BD%E9%BB%84%E4%BA%86.jpg"
+  },
+  {
+    "id": "surrender",
+    "title": "好好好，我投降",
+    "file": "好好好_我投降.jpg",
+    "tags": [
+      "投降",
+      "认输",
+      "猫"
+    ],
+    "scene": "投降、认输、猫",
+    "stickerPath": "好好好_我投降.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%A5%BD%E5%A5%BD%E5%A5%BD_%E6%88%91%E6%8A%95%E9%99%8D.jpg"
+  },
+  {
+    "id": "innocent-emperor",
+    "title": "朕何罪之有",
+    "file": "朕何罪之有.jpg",
+    "tags": [
+      "无辜",
+      "嘴硬",
+      "帝王"
+    ],
+    "scene": "无辜、嘴硬、帝王",
+    "stickerPath": "朕何罪之有.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E6%9C%95%E4%BD%95%E7%BD%AA%E4%B9%8B%E6%9C%89.jpg"
+  },
+  {
+    "id": "approve",
+    "title": "批准，可以",
+    "file": "批准_可以.jpg",
+    "tags": [
+      "同意",
+      "批准",
+      "可以"
+    ],
+    "scene": "同意、批准、可以",
+    "stickerPath": "批准_可以.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E6%89%B9%E5%87%86_%E5%8F%AF%E4%BB%A5.jpg"
+  },
+  {
+    "id": "work-soul",
+    "title": "上班上到灵魂出窍",
+    "file": "上班上到灵魂出窍.jpg",
+    "tags": [
+      "上班",
+      "疲惫",
+      "电脑"
+    ],
+    "scene": "上班、疲惫、电脑",
+    "stickerPath": "上班上到灵魂出窍.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E4%B8%8A%E7%8F%AD%E4%B8%8A%E5%88%B0%E7%81%B5%E9%AD%82%E5%87%BA%E7%AA%8D.jpg"
+  },
+  {
+    "id": "stay-cool",
+    "title": "保持 cool，问题不大",
+    "file": "保持cool_问题不大.jpg",
+    "tags": [
+      "冷静",
+      "墨镜",
+      "装酷"
+    ],
+    "scene": "冷静、墨镜、装酷",
+    "stickerPath": "保持cool_问题不大.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E4%BF%9D%E6%8C%81cool_%E9%97%AE%E9%A2%98%E4%B8%8D%E5%A4%A7.jpg"
+  },
+  {
+    "id": "fall-for-me",
+    "title": "你也为我倾倒吗",
+    "file": "你也为我倾倒吗.jpg",
+    "tags": [
+      "自恋",
+      "倾倒",
+      "可爱"
+    ],
+    "scene": "自恋、倾倒、可爱",
+    "stickerPath": "你也为我倾倒吗.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E4%BD%A0%E4%B9%9F%E4%B8%BA%E6%88%91%E5%80%BE%E5%80%92%E5%90%97.jpg"
+  },
+  {
+    "id": "then-what",
+    "title": "然后呢，你能拿我怎样",
+    "file": "然后呢_你能拿我怎样.jpg",
+    "tags": [
+      "挑衅",
+      "不服",
+      "嘴硬"
+    ],
+    "scene": "挑衅、不服、嘴硬",
+    "stickerPath": "然后呢_你能拿我怎样.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E7%84%B6%E5%90%8E%E5%91%A2_%E4%BD%A0%E8%83%BD%E6%8B%BF%E6%88%91%E6%80%8E%E6%A0%B7.jpg"
+  },
+  {
+    "id": "too-far",
+    "title": "太远了，近一点",
+    "file": "太远了_近一点.jpg",
+    "tags": [
+      "靠近",
+      "撒娇",
+      "贴贴"
+    ],
+    "scene": "靠近、撒娇、贴贴",
+    "stickerPath": "太远了_近一点.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%A4%AA%E8%BF%9C%E4%BA%86_%E8%BF%91%E4%B8%80%E7%82%B9.jpg"
+  },
+  {
+    "id": "angry",
+    "title": "生气了，哄不好的那种",
+    "file": "生气了_哄不好的那种.jpg",
+    "tags": [
+      "生气",
+      "难哄",
+      "杰瑞"
+    ],
+    "scene": "生气、难哄、杰瑞",
+    "stickerPath": "生气了_哄不好的那种.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E7%94%9F%E6%B0%94%E4%BA%86_%E5%93%84%E4%B8%8D%E5%A5%BD%E7%9A%84%E9%82%A3%E7%A7%8D.jpg"
+  },
+  {
+    "id": "give-me",
+    "title": "给我，别磨蹭",
+    "file": "给我_别磨蹭.jpg",
+    "tags": [
+      "催促",
+      "索要",
+      "命令"
+    ],
+    "scene": "催促、索要、命令",
+    "stickerPath": "给我_别磨蹭.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E7%BB%99%E6%88%91_%E5%88%AB%E7%A3%A8%E8%B9%AD.jpg"
+  },
+  {
+    "id": "late-open-door",
+    "title": "晚了，开门，我来了",
+    "file": "晚了开门_我来了.jpg",
+    "tags": [
+      "开门",
+      "晚了",
+      "闯入"
+    ],
+    "scene": "开门、晚了、闯入",
+    "stickerPath": "晚了开门_我来了.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E6%99%9A%E4%BA%86%E5%BC%80%E9%97%A8_%E6%88%91%E6%9D%A5%E4%BA%86.jpg"
+  },
+  {
+    "id": "called-out",
+    "title": "被说中心事，当场升温",
+    "file": "被说中心事_当场升温.jpg",
+    "tags": [
+      "脸红",
+      "心虚",
+      "害羞"
+    ],
+    "scene": "脸红、心虚、害羞",
+    "stickerPath": "被说中心事_当场升温.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%A2%AB%E8%AF%B4%E4%B8%AD%E5%BF%83%E4%BA%8B_%E5%BD%93%E5%9C%BA%E5%8D%87%E6%B8%A9.jpg"
+  },
+  {
+    "id": "date-manual",
+    "title": "和我约会的使用说明",
+    "file": "和我约会的使用说明.jpg",
+    "tags": [
+      "约会",
+      "说明书",
+      "怨气"
+    ],
+    "scene": "约会、说明书、怨气",
+    "stickerPath": "和我约会的使用说明.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%92%8C%E6%88%91%E7%BA%A6%E4%BC%9A%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg"
+  },
+  {
+    "id": "cry-loudly",
+    "title": "委屈到嚎啕大哭",
+    "file": "委屈到嚎啕大哭.jpg",
+    "tags": [
+      "委屈",
+      "大哭",
+      "求哄"
+    ],
+    "scene": "委屈、大哭、求哄",
+    "stickerPath": "委屈到嚎啕大哭.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%A7%94%E5%B1%88%E5%88%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD.jpg"
+  },
+  {
+    "id": "work-thinking-you",
+    "title": "认真上班，其实在想你",
+    "file": "认真上班_其实在想你.jpg",
+    "tags": [
+      "上班",
+      "想念",
+      "电脑"
+    ],
+    "scene": "上班、想念、电脑",
+    "stickerPath": "认真上班_其实在想你.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%AE%A4%E7%9C%9F%E4%B8%8A%E7%8F%AD_%E5%85%B6%E5%AE%9E%E5%9C%A8%E6%83%B3%E4%BD%A0.jpg"
+  },
+  {
+    "id": "cute-with-grudge",
+    "title": "表面维持纯良，背后怨气冲天",
+    "file": "表面维持纯良_背后怨气冲天.jpg",
+    "tags": [
+      "纯良",
+      "怨气",
+      "反差"
+    ],
+    "scene": "纯良、怨气、反差",
+    "stickerPath": "表面维持纯良_背后怨气冲天.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%A1%A8%E9%9D%A2%E7%BB%B4%E6%8C%81%E7%BA%AF%E8%89%AF_%E8%83%8C%E5%90%8E%E6%80%A8%E6%B0%94%E5%86%B2%E5%A4%A9.jpg"
+  },
+  {
+    "id": "on-fire",
+    "title": "被你撩得着火了",
+    "file": "被你撩得着火了.jpg",
+    "tags": [
+      "撩",
+      "着火",
+      "害羞"
+    ],
+    "scene": "撩、着火、害羞",
+    "stickerPath": "被你撩得着火了.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E8%A2%AB%E4%BD%A0%E6%92%A9%E5%BE%97%E7%9D%80%E7%81%AB%E4%BA%86.jpg"
+  },
+  {
+    "id": "leave-but-stay",
+    "title": "没事了，你走吧，其实别走",
+    "file": "没事了你走吧_其实别走.jpg",
+    "tags": [
+      "嘴硬",
+      "挽留",
+      "傲娇"
+    ],
+    "scene": "嘴硬、挽留、傲娇",
+    "stickerPath": "没事了你走吧_其实别走.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E6%B2%A1%E4%BA%8B%E4%BA%86%E4%BD%A0%E8%B5%B0%E5%90%A7_%E5%85%B6%E5%AE%9E%E5%88%AB%E8%B5%B0.jpg"
+  },
+  {
+    "id": "say-im-good",
+    "title": "快说我特别好",
+    "file": "快说我特别好.jpg",
+    "tags": [
+      "求夸",
+      "催促",
+      "撒娇"
+    ],
+    "scene": "求夸、催促、撒娇",
+    "stickerPath": "快说我特别好.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%BF%AB%E8%AF%B4%E6%88%91%E7%89%B9%E5%88%AB%E5%A5%BD.jpg"
+  },
+  {
+    "id": "like-me",
+    "title": "你喜欢我吗，只能选是",
+    "file": "你喜欢我吗_只能选是.jpg",
+    "tags": [
+      "喜欢",
+      "选择题",
+      "强制"
+    ],
+    "scene": "喜欢、选择题、强制",
+    "stickerPath": "你喜欢我吗_只能选是.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E4%BD%A0%E5%96%9C%E6%AC%A2%E6%88%91%E5%90%97_%E5%8F%AA%E8%83%BD%E9%80%89%E6%98%AF.jpg"
+  },
+  {
+    "id": "closer",
+    "title": "再过来点，还不够近",
+    "file": "再过来点_还不够近.jpg",
+    "tags": [
+      "靠近",
+      "贴贴",
+      "撒娇"
+    ],
+    "scene": "靠近、贴贴、撒娇",
+    "stickerPath": "再过来点_还不够近.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%86%8D%E8%BF%87%E6%9D%A5%E7%82%B9_%E8%BF%98%E4%B8%8D%E5%A4%9F%E8%BF%91.jpg"
+  },
+  {
+    "id": "forced-love",
+    "title": "强制爱，你不同意也得同意",
+    "file": "强制爱_你不同意也得同意.jpg",
+    "tags": [
+      "强制爱",
+      "不同意",
+      "霸道"
+    ],
+    "scene": "强制爱、不同意、霸道",
+    "stickerPath": "强制爱_你不同意也得同意.jpg",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/noalisi/yingyan-stickers@main/%E5%BC%BA%E5%88%B6%E7%88%B1_%E4%BD%A0%E4%B8%8D%E5%90%8C%E6%84%8F%E4%B9%9F%E5%BE%97%E5%90%8C%E6%84%8F.jpg"
+  }
+]
